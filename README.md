@@ -1,2 +1,8 @@
-# Web-Development
-My Web Development Notes From my Obsidian Vault.
+# Web Development
+
+## Web Development
+
+- [[Process & Design]]
+- [[Practical Information]]
+
+---
